@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoChainConsole", "DominoChain\DominoChainConsole.csproj", "{EF25CF54-D8B5-4F81-8B43-1EB918F00377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoChainTest", "DominoChainTest\DominoChainTest.csproj", "{E72F80F4-4714-4427-A480-6DD746F6581A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoChainCore", "DominoChainCore\DominoChainCore.csproj", "{F371E0C0-A795-48CD-B196-57F2F5F391DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF25CF54-D8B5-4F81-8B43-1EB918F00377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF25CF54-D8B5-4F81-8B43-1EB918F00377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF25CF54-D8B5-4F81-8B43-1EB918F00377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF25CF54-D8B5-4F81-8B43-1EB918F00377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72F80F4-4714-4427-A480-6DD746F6581A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72F80F4-4714-4427-A480-6DD746F6581A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72F80F4-4714-4427-A480-6DD746F6581A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72F80F4-4714-4427-A480-6DD746F6581A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F371E0C0-A795-48CD-B196-57F2F5F391DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F371E0C0-A795-48CD-B196-57F2F5F391DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F371E0C0-A795-48CD-B196-57F2F5F391DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F371E0C0-A795-48CD-B196-57F2F5F391DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3C5E4C-230A-40C4-AE5D-4977059AEC3F}
+	EndGlobalSection
+EndGlobal
